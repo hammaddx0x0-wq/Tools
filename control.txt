@@ -1,2 +1,2 @@
-STATUS=BLOCKED
-MESSAGE=Tool is under maintenance. Will be back soon!
+STATUS=ALLOWED
+MESSAGE=Tools are running normally
