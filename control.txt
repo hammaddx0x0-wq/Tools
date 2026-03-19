@@ -1,2 +1,2 @@
-STATUS=Block
-MESSAGE=under mantainance
+STATUS=BLOCKED
+MESSAGE=Tools temporarily disabled. Will be back soon.
