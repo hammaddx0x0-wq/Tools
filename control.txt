@@ -1,2 +1,2 @@
 STATUS=ALLOWED
-MESSAGE=Tools running normally
+MESSAGE=Tools are running normally
