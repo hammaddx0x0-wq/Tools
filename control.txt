@@ -1,2 +1,2 @@
-STATUS=ALLOWED
-MESSAGE=Tools running normally
+STATUS=BLOCKED
+MESSAGE=Kya hua use krna hai acha phly mujh sy permission lo
