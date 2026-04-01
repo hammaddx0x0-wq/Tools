@@ -1,2 +1,2 @@
-STATUS=ALLOWED
-MESSAGE=Tools running normally
+STATUS=BLOCKED
+MESSAGE=istemal krny sy phly permission li apny?
