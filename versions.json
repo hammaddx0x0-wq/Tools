@@ -2,15 +2,13 @@
     "tools": {
         "link_extractor": {
             "version": "2.0.0",
-            "download_url": "https://github.com/hammaddx0x0-wq/Tools/releases/download/v2.0.0/link_extractor_v2.0.0.exe",
-            "changelog": "- Fixed CAPTCHA detection\n- Better directory filter",
-            "required": false
+            "download_url": "https://github.com/hammaddx0x0-wq/Tools/releases/download/v2.0.0/link_extractor.exe",
+            "changelog": "- Fixed CAPTCHA handling\n- Unlimited page scanning\n- Blocked directory sites\n- Improved extraction"
         },
-        "dnd_scanner": {
+        "master_scanner": {
             "version": "3.1.0",
-            "download_url": "https://github.com/hammaddx0x0-wq/Tools/releases/download/v3.1.0/dnd_scanner_v3.1.0.exe",
-            "changelog": "- Added 50+ messages check\n- Office ID filter improved",
-            "required": false
+            "download_url": "https://github.com/hammaddx0x0-wq/Tools/releases/download/v3.1.0/master_scanner.exe",
+            "changelog": "- Office ID filter\n- D&D channel check\n- Message count"
         }
     }
 }
