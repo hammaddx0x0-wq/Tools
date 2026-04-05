@@ -6,7 +6,7 @@
             "changelog": "- Fixed CAPTCHA handling\n- Unlimited page scanning\n- Blocked directory sites\n- Improved extraction"
         },
         "master_scanner": {
-            "version": "1.1.0",
+            "version": "1.0.0",
             "download_url": "https://github.com/hammaddx0x0-wq/Tools/releases/download/v3.1.0/master_scanner.exe",
             "changelog": "- Office ID filter\n- D&D channel check\n- Message count"
         }
